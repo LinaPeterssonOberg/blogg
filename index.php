@@ -1,2 +1,2 @@
 <?php
-echo "min första mening";
+echo "min första jajahsj mening";
